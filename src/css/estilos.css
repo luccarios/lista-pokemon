@@ -120,3 +120,9 @@ main .descricao {
 	font-size: 14px;
 	padding-right: 10px;
 }
+
+footer{
+	font-family: 'Poppins', sans-serif;
+	text-align: center;
+	padding: 20px;
+  }
